@@ -9,3 +9,8 @@ check if gcc is installed
 ```bash
 gcc-11
 ```
+
+run cpp
+1. click on Terminal
+2. click on Run Task
+3. select a compiler -> Clang
