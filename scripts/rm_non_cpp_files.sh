@@ -1,0 +1,1 @@
+ls | grep -v ".cpp$" | xargs rm -r
