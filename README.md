@@ -23,3 +23,4 @@ link: https://www.youtube.com/watch?v=8jLOx1hD3_o
     ```bash
     ../scripts/rm_non_cpp_files.sh
     ```
+    - don't run this script from the root folder.
